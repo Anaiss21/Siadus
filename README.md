@@ -1,3 +1,2 @@
-# SiadusTech
-
-Une boutique e-commerce bilingue (FR/EN) pour des produits électroniques.
+# Siadus
+Projet Next.js simple pour démarrer ta boutique.
